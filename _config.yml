@@ -2,7 +2,7 @@
 menu:
   Home: /
   Archives: /archives
-  GitHub: https://github.com/tommy351
+  GitHub: https://github.com/deptno
 rss: /atom.xml
 
 # Content
@@ -19,9 +19,9 @@ widgets:
 - recent_posts
 
 # Miscellaneous
-google_analytics: UA-4910098-7
+google_analytics: 
 favicon:
-twitter: tommy351
-google_plus: 108777679171675250079
-fb_admins: 100000247608790
+twitter: deptno
+google_plus: 
+fb_admins: 
 fb_app_id:
