@@ -19,8 +19,7 @@ widgets:
 - recent_posts
 
 # Miscellaneous
-google_analytics: 
-favicon:
+google_analytics: UA-74859643-1
 twitter: deptno
 google_plus: 
 fb_admins: 
